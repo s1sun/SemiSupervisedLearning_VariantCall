@@ -1,0 +1,61 @@
+Whole features			Common features	
+Variable	Importance	Variable	Importance
+NCC		0.14		NCC		0.71
+AC		0.12		SSC		0.09
+SomaticEVS	0.09		SPV		0.04
+TLOD		0.08		LowMQ0_N	0.02
+str		0.06		SOR_N		0.02
+NT		0.05		var_indel	0.02
+SGT		0.05		LowMQ0_T	0.01
+NLOD		0.04		LowMQ10_N	0.01
+ECNT		0.03		LowMQ10_T	0.01
+HCNT		0.03		MQ_N		0.01
+SSC		0.03		MQ0_N		0.01
+mut		0.03		Var_SNP		0.01
+QSS_NT		0.02		fisherETp_NT	0.01
+fisherETp_NT	0.02		DP_N		0
+DP_N		0.01		DP_T		0
+DP_T		0.01		GC		0
+GC		0.01		HRun		0
+GPV		0.01		MQ_T		0
+MQ_N		0.01		MQ0_T		0
+MQ_T		0.01		SOR_T		0
+QSI		0.01		Var_num_N	0
+QSI_NT		0.01		Var_num_T	0
+QSS		0.01			
+RU		0.01			
+SOR_N		0.01			
+SPV		0.01			
+TQSS		0.01			
+TQSS_NT		0.01			
+Var_num_T	0.01			
+Var_rate_T	0.01			
+var		0.01			
+AF		0			
+FS_N		0			
+FS_T		0			
+HRun		0			
+IC		0			
+IHP		0			
+LowMQ0_N	0			
+LowMQ0_T	0			
+LowMQ10_N	0			
+LowMQ10_T	0			
+MAX_ED		0			
+MQ0_N		0			
+MQ0_T		0			
+PercentNBase_N	0			
+PercentNBase_T	0			
+RC		0			
+RPA		0			
+ReadPosRankSum	0			
+SNVSB		0			
+SOMATIC		0			
+SOR_T		0			
+STR		0			
+TQSI		0			
+TQSI_NT		0			
+Var_SNP		0			
+var_indel	0			
+Var_num_N	0			
+Var_rate_N	0		
