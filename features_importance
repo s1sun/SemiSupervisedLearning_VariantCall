@@ -1,4 +1,4 @@
-Whole features			Common features	
+Whole_features			Important_features	
 Variable	Importance	Variable	Importance
 NCC		0.14		NCC		0.71
 AC		0.12		SSC		0.09
