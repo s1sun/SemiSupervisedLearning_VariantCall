@@ -1,7 +1,7 @@
 # Enhanced Somatic Variant Detection Using Multi-Detectors and Semi-Supervised Learning Approach
 Somatic variant detection relies on multiple variant callers, such as Mutect2, Strelka, and VarScan, each with its own strengths, limitations, and detection algorithms. However, the sensitivity of any single detector typically reaches only about 85%, leaving room for improvement.
 
-## Multi-Detector Integration Strategy
+## Multi-Detectors Integration Strategy
 To improve accuracy, I integrate the results from multiple detectors and classify variants into two groups:
 
 1. High-Confidence Positive Group – Variants that pass all detection criteria across multiple tools, representing high-confidence calls.
